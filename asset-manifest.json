@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Modred/static/css/main.5c557f52.css",
+    "main.js": "/Modred/static/js/main.de25da5c.js",
+    "static/js/453.c42f0fbb.chunk.js": "/Modred/static/js/453.c42f0fbb.chunk.js",
+    "index.html": "/Modred/index.html",
+    "main.5c557f52.css.map": "/Modred/static/css/main.5c557f52.css.map",
+    "main.de25da5c.js.map": "/Modred/static/js/main.de25da5c.js.map",
+    "453.c42f0fbb.chunk.js.map": "/Modred/static/js/453.c42f0fbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c557f52.css",
+    "static/js/main.de25da5c.js"
+  ]
+}
